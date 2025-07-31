@@ -1,3 +1,3 @@
-# Bouyangoulan
+# 🙋‍♂️ Ayoub Bouyangoulan
 
-** front-end developer**
+**`Front-end developer`**
